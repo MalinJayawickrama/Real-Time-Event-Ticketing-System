@@ -1,0 +1,45 @@
+2024-12-12 08:25:30 - Vendor 1 issued Ticket-1
+2024-12-12 08:25:30 - Simulation started.
+2024-12-12 08:25:30 - Customer 1 purchased Ticket-1
+2024-12-12 08:25:31 - Vendor 1 issued Ticket-2
+2024-12-12 08:25:31 - Customer 2 purchased Ticket-2
+2024-12-12 08:25:32 - Vendor 1 issued Ticket-3
+2024-12-12 08:25:32 - Customer 3 purchased Ticket-3
+2024-12-12 08:25:33 - Vendor 1 issued Ticket-4
+2024-12-12 08:25:33 - Customer 4 purchased Ticket-4
+2024-12-12 08:25:34 - Vendor 1 issued Ticket-5
+2024-12-12 08:25:34 - Customer 5 purchased Ticket-5
+2024-12-12 08:25:35 - Vendor 1 issued Ticket-6
+2024-12-12 08:25:35 - Customer 6 purchased Ticket-6
+2024-12-12 08:25:36 - Vendor 1 issued Ticket-7
+2024-12-12 08:25:36 - Customer 7 purchased Ticket-7
+2024-12-12 08:25:37 - Vendor 1 issued Ticket-8
+2024-12-12 08:25:37 - Customer 8 purchased Ticket-8
+2024-12-12 08:25:38 - Vendor 1 issued Ticket-9
+2024-12-12 08:25:38 - Customer 9 purchased Ticket-9
+2024-12-12 08:25:39 - Vendor 1 issued Ticket-10
+2024-12-12 08:25:39 - Customer 10 purchased Ticket-10
+2024-12-12 08:25:40 - Vendor 1 issued Ticket-11
+2024-12-12 08:25:40 - Customer 11 purchased Ticket-11
+2024-12-12 08:25:41 - Vendor 1 issued Ticket-12
+2024-12-12 08:25:41 - Customer 12 purchased Ticket-12
+2024-12-12 08:25:42 - Vendor 1 issued Ticket-13
+2024-12-12 08:25:42 - Customer 13 purchased Ticket-13
+2024-12-12 08:25:43 - Vendor 1 issued Ticket-14
+2024-12-12 08:25:43 - Customer 14 purchased Ticket-14
+2024-12-12 08:25:44 - Vendor 1 issued Ticket-15
+2024-12-12 08:25:44 - Customer 15 purchased Ticket-15
+2024-12-12 08:25:45 - Vendor 1 issued Ticket-16
+2024-12-12 08:25:45 - Customer 16 purchased Ticket-16
+2024-12-12 08:25:46 - Vendor 1 issued Ticket-17
+2024-12-12 08:25:46 - Customer 17 purchased Ticket-17
+2024-12-12 08:25:47 - Vendor 1 issued Ticket-18
+2024-12-12 08:25:47 - Customer 18 purchased Ticket-18
+2024-12-12 08:25:48 - Vendor 1 issued Ticket-19
+2024-12-12 08:25:48 - Customer 19 purchased Ticket-19
+2024-12-12 08:25:49 - Vendor 1 issued Ticket-20
+2024-12-12 08:25:49 - Customer 20 purchased Ticket-20
+2024-12-12 08:25:50 - Vendor 1 has finished issuing tickets.
+2024-12-12 08:25:51 - No tickets available. Customer 21 is waiting...
+2024-12-12 08:25:59 - Simulation stopped by user.
+2024-12-12 08:25:59 - Simulation ended.
